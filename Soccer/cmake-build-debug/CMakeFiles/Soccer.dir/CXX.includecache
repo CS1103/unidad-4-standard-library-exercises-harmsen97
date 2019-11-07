@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/10ejercicios/Soccer/football.h
+string
+-
+
+/Users/jeronimo/Desktop/10ejercicios/Soccer/main.cpp
+iostream
+-
+vector
+-
+map
+-
+football.h
+/Users/jeronimo/Desktop/10ejercicios/Soccer/football.h
+
