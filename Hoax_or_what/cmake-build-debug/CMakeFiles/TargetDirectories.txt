@@ -1,0 +1,3 @@
+/Users/jeronimo/Desktop/10ejercicios/Hoax_or_what/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeronimo/Desktop/10ejercicios/Hoax_or_what/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeronimo/Desktop/10ejercicios/Hoax_or_what/cmake-build-debug/CMakeFiles/Hoax_or_what.dir
