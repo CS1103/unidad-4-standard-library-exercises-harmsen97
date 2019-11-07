@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/10ejercicios/Bitset_newspaper/bitset.h
+map
+-
+
+/Users/jeronimo/Desktop/10ejercicios/Bitset_newspaper/main.cpp
+iostream
+-
+bitset.h
+/Users/jeronimo/Desktop/10ejercicios/Bitset_newspaper/bitset.h
+

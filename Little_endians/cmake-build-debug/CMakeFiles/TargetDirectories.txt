@@ -1,0 +1,3 @@
+/Users/jeronimo/Desktop/10ejercicios/little_endians/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeronimo/Desktop/10ejercicios/little_endians/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeronimo/Desktop/10ejercicios/little_endians/cmake-build-debug/CMakeFiles/little_endians.dir

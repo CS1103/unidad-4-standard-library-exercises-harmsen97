@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/10ejercicios/little_endians/main.cpp
+iostream
+-
+unsorted_map.h
+/Users/jeronimo/Desktop/10ejercicios/little_endians/unsorted_map.h
+
+/Users/jeronimo/Desktop/10ejercicios/little_endians/unsorted_map.h
+unordered_map
+-
+vector
+-
+
