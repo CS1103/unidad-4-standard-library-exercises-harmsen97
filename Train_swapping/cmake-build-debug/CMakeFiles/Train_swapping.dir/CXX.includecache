@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/10ejercicios/Train_swapping/main.cpp
+iostream
+-
+vector
+-
+train_swapping.h
+/Users/jeronimo/Desktop/10ejercicios/Train_swapping/train_swapping.h
+
+/Users/jeronimo/Desktop/10ejercicios/Train_swapping/train_swapping.h
+
