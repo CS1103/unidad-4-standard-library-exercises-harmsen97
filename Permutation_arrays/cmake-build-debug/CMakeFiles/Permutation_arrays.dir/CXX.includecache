@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/10ejercicios/Permutation arrays/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+permutation.h
+/Users/jeronimo/Desktop/10ejercicios/Permutation arrays/permutation.h
+
+/Users/jeronimo/Desktop/10ejercicios/Permutation arrays/permutation.h
+vector
+-
+
