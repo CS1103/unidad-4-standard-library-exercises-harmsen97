@@ -5,6 +5,14 @@
 #include <unordered_map>
 
 
+
+bool comp(std::pair<std::string, int>&a, std::pair<std::string, int>& b){
+    if(a.first != b.first)
+        return a.second < b.second;
+
+}
+
+
 int main() {
 
 
