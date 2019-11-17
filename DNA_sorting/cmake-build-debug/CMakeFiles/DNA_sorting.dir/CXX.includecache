@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeronimo/Desktop/10ejercicios/DNA_sorting/dna_sorting.h
+string
+-
+vector
+-
+
+/Users/jeronimo/Desktop/10ejercicios/DNA_sorting/main.cpp
+iostream
+-
+dna_sorting.h
+/Users/jeronimo/Desktop/10ejercicios/DNA_sorting/dna_sorting.h
+
